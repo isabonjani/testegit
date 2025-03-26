@@ -27,12 +27,13 @@ doc teste
 - <o>TODO:</o> Less important thing to do
 - <g>DONE: Breath deeply and improve karma </g>
 - <v> isabella </v>
+- <v> Valdir Giorgi</v>
 
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Programar-->Estudar;
+    Programar-->Repetir;
+    Programar-->Conhecer novas Tec;
+    Programar-->Conhecer novas pessoas;
 ```
