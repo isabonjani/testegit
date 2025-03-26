@@ -2,16 +2,16 @@
 r { color: Red }
 o { color: Orange }
 g { color: Green }
-v { color: blue}
+v { color: pink}
 </style>
 
 doc teste
 
 
-# Oi sou um teste
-## Sou menor
+# Oi valdirene kakakakak
+## 11 98456-8574
 #### sou menor ainda
-`cout<<"Hello world";`
+`cout<<"VAI DORMIR!!";
 
 
 | Tables | Are | Cool |
@@ -26,6 +26,7 @@ doc teste
 - <r>TODO:</r> Important thing to do
 - <o>TODO:</o> Less important thing to do
 - <g>DONE: Breath deeply and improve karma </g>
+- <v> isabella </v>
 - <v> Valdir Giorgi</v>
 
 
